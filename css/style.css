@@ -1,6 +1,11 @@
 .texto-centrado{
     max-width: 550px;
     margin: o auto;
+    text-align: center;
+    background-color: bisque;
+}
+h2{
+    font-family: sans-serif;
 
 }
 
